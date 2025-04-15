@@ -4,7 +4,7 @@ A Flutter application designed to provide a full-stack solution with a clean arc
 
 ---
 
-You can find the **BACK-END** source from this repository: [fullstack-app-backend]([https://github.com/AbdullahAlFaruque/fullstack-app-backend](https://github.com/OracleMatrix/flutter_fullstack_app)) 🔗
+You can find the **BACK-END** source from this repository: [fullstack-app-backend]([(https://github.com/OracleMatrix/flutter_fullstack_app)]) 🔗
 
 ---
 
